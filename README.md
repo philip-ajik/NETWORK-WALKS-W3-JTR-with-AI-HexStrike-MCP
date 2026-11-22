@@ -17,7 +17,7 @@
 
 ## 📌 Project Overview
 
-This is an **optional but important** Week 3 lab from the Networkwalks Cybersecurity internship: **Password Cracking with JTR + AI — HexStrike MCP Edition**. It builds directly on two earlier labs: **[W3-PM1 (Password Cracking with JTR)](../NETWORK-WALKS-W3-PM1-Password-Cracking-with-JTR)**, where I ran John the Ripper myself from the command line, and **[the HexStrike MCP setup lab](../NETWORK-WALKS-W3-HexStrike-MCP-Setup)**, where I got Claude Desktop talking to HexStrike AI's tools.
+This is an **optional but important** Week 3 lab from the Networkwalks Cybersecurity internship: **Password Cracking with JTR + AI — HexStrike MCP Edition**. It builds directly on two earlier labs: **[W3-PM1 (Password Cracking with JTR)](../NETWORK-WALKS-W3-PM1---Week3---Project-Module1---Password-Cracking-with-JTR-v1)**, where I ran John the Ripper myself from the command line, and **[the HexStrike MCP setup lab](../NETWORK-WALKS-W3-HexStrike-MCP-Setup)**, where I got Claude Desktop talking to HexStrike AI's tools.
 
 This time the task is to let the AI do the cracking: instead of typing `pdf2john` and `john` myself, I asked **Claude Desktop**, through the **HexStrike AI MCP server**, to check whether John the Ripper is available, hash the target PDF, and crack it, in plain English prompts. I ran this on 20 November 2026.
 
